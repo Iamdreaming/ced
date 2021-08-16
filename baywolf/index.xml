@@ -33,7 +33,7 @@
         <IMAGE CRC="0XF8B245B0" FILENAME="BayWolf_3.1.7_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="3.1.7.1790" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_3.1.7_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="3.1.7.1790" SUBID="2" TARGET="3" />
       </RELEASE>
-      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="3.1.8.1835" URLPATH="/bosefirmware/ced/master/baywolf/">
+      <RELEASE HTTPHOST="ghproxy.com/raw.githubusercontent.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="3.1.8.1835" URLPATH="/bosefirmware/ced/master/baywolf/">
         <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_3.1.8_stack_plus_app.dfu" LENGTH="1899496" NOFORCE="1" REVISION="3.1.8.1835" SUBID="0" />
         <IMAGE CRC="0X3F094999" FILENAME="BayWolf_3.1.8_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="3.1.8.1835" SUBID="1" TARGET="1" />
         <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_3.1.8_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="3.1.8.1835" SUBID="2" TARGET="3" />
